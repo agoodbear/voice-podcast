@@ -14,6 +14,59 @@
   <image><url>https://agoodbear.github.io/voice-podcast/cover.jpg</url><title>熊的好奇電台</title><link>https://agoodbear.github.io/voice-podcast/</link></image>
   <itunes:owner><itunes:name>曹建雄 Bear</itunes:name><itunes:email>agoodbear@gmail.com</itunes:email></itunes:owner>
   <item>
+    <title>EP07 替肺栓塞病人插管，會不會反而讓狀況惡化？2026 AHA/ACC 新指引怎麼說</title>
+    <guid isPermaLink="false">voice-podcast-ep07-pe-intubation-20260607</guid>
+    <pubDate>Sun, 07 Jun 2026 13:00:00 +0800</pubDate>
+    <enclosure url="https://agoodbear.github.io/voice-podcast/ep07-pe-intubation.mp3" length="22937319" type="audio/mpeg"/>
+    <itunes:duration>00:23:54</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://agoodbear.github.io/voice-podcast/cover.jpg"/>
+    <description><![CDATA[
+<p>急診室來了一個喘到不行、血氧直直落的急性肺栓塞病人，直覺反應就是插管、給氧、保護氣道——但這一集要講的剛好相反：對肺栓塞病人來說，插管這個動作本身，可能就是壓垮他的最後一根稻草。為什麼一個血壓看起來還撐得住的病人，鎮靜誘導藥一打、正壓一上，就會瞬間崩盤？答案藏在那顆被後負荷逼到極限、正卡在「右心死亡螺旋」邊緣的右心室。本集帶你看懂崩潰的機轉、誘導藥怎麼選（ketamine 的老禁忌翻案、etomidate 與 propofol 的取捨）、升壓藥第一線到第二線的選法、PEEP 的 U 形曲線、為什麼肺栓塞不能用「允許性高碳酸血症」、液體該不該灌，以及二〇二六新指引「能不插就不插、先穩血壓、備好葉克膜救援」的操作邏輯。我們也會誠實標出每個處置背後的證據有多薄。</p>
+<p>⚠️ 本集由 AI 多來源研究＋對抗式查核後、以中文對談製作；內容真實性以查核報告為準。本集為衛教與知識分享，不構成醫療建議，臨床處置請依個別病人狀況與主治醫師判斷。</p>
+<ul>
+<li>2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults（JACC 2026;87:1626-1710）— JACC / 2026-03-01 —（官方一手）— <a href="https://doi.org/10.1016/j.jacc.2025.11.005">link</a></li>
+<li>2026 AHA/ACC PE Guideline（共同發表，Circulation 2026;153:e977）— Circulation / 2026-01-01 —（官方一手）— <a href="https://doi.org/10.1161/cir.0000000000001415">link</a></li>
+<li>Intubation and Mechanical Ventilation in Patients with Acute Pulmonary Embolism: A Scoping Review（Lee ES et al., J Intensive Care Med 2024，PMID 39318344）— PubMed / 2024-09-01 —（官方一手）— <a href="https://pubmed.ncbi.nlm.nih.gov/39318344/">link</a></li>
+<li>Managing right ventricular failure in the setting of pulmonary embolism（Cleveland Clinic Journal of Medicine 2025;92(5):301）— CCJM / 2025-05-01 —（官方一手）— <a href="https://www.ccjm.org/content/92/5/301">link</a></li>
+<li>Role of Ketamine in the Management of Pulmonary Hypertension and Right Ventricular Failure（J Cardiothorac Vasc Anesth 2012;26(4):741-748，PMID 22361483）— PubMed / 2012-04-01 —（官方一手）— <a href="https://pubmed.ncbi.nlm.nih.gov/22361483/">link</a></li>
+<li>SCCM Clinical Practice Guidelines for Rapid Sequence Intubation in the Critically Ill Adult（Crit Care Med 2023;51(10):1411-1430）— SCCM / 2023-10-01 —（官方一手）— <a href="https://doi.org/10.1097/ccm.0000000000006000">link</a></li>
+<li>Induction agents for emergency tracheal intubation in critically ill adults: systematic review and network meta-analysis（Zampieri FG et al., Critical Care 2026）— Critical Care / 2026-01-01 —（官方一手）— <a href="https://doi.org/10.1186/s13054-026-06067-w">link</a></li>
+<li>Intraprocedural Management of PE Patients Undergoing Transcatheter Treatment, and Ventilatory and Cardiac Support（ICR Journal 2025，PMC12937079）— ICR Journal / 2025-01-01 —（官方一手）— <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12937079/">link</a></li>
+<li>Positive Pressure Ventilation in the Cardiac Intensive Care Unit（Alviar CL et al., JACC 2018;72(13):1532-1553，PMC11032173）— JACC / 2018-09-25 —（官方一手）— <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11032173/">link</a></li>
+<li>Increasing Levels of PEEP Cause Stepwise Biventricular Stroke Work Reduction in a Porcine Model（Wood G et al., Anesthesiology 2023;140(2):240-250，PMID 37905995）— Anesthesiology / 2023-02-01 —（官方一手）— <a href="https://doi.org/10.1097/aln.0000000000004821">link</a></li>
+<li>Management Strategies for Acute Pulmonary Embolism in the ICU（McGuire WC et al., CHEST 2024;166(6):1532-1545）— CHEST / 2024-06-01 —（官方一手）— <a href="https://doi.org/10.1016/j.chest.2024.04.032">link</a></li>
+<li>Efficacy and Safety of Systemic Thrombolysis and Catheter-Directed Therapy in Pulmonary Embolism: A Narrative Review（PMC11660967）— PMC / 2024-12-01 —（官方一手）— <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11660967/">link</a></li>
+<li>RSI Trial: Ketamine or Etomidate for Tracheal Intubation of Critically Ill Adults — The Bottom Line Summary（Casey et al., NEJM 2025）— The Bottom Line / 2025-12-01 —（媒體報導）— <a href="https://www.thebottomline.org.uk/summaries/icm/rsi-ketamine-or-etomidate-for-tracheal-intubation-of-critically-ill-adults/">link</a></li>
+<li>Hemodynamic and respiratory support in pulmonary embolism: a narrative review（Frontiers in Medicine 2023;10:1123793）— Frontiers in Medicine / 2023-03-01 —（媒體報導）— <a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1123793/full">link</a></li>
+<li>The Critical Pulmonary Embolism Patient — REBEL EM / 2024-01-01 —（媒體報導）— <a href="https://rebelem.com/the-critical-pulmonary-embolism-patient/">link</a></li>
+<li>ECMO Considerations in the Management of Acute Pulmonary Embolism（ACEP Critical Care Section）— ACEP / 2025-12-01 —（媒體報導）— <a href="https://www.acep.org/criticalcare/newsroom/newsroom-articles/december-2025/ecmo-considerations-in-the-management-of-acute-pulmonary-embolism">link</a></li>
+</ul>
+]]></description>
+    <content:encoded><![CDATA[
+<p>急診室來了一個喘到不行、血氧直直落的急性肺栓塞病人，直覺反應就是插管、給氧、保護氣道——但這一集要講的剛好相反：對肺栓塞病人來說，插管這個動作本身，可能就是壓垮他的最後一根稻草。為什麼一個血壓看起來還撐得住的病人，鎮靜誘導藥一打、正壓一上，就會瞬間崩盤？答案藏在那顆被後負荷逼到極限、正卡在「右心死亡螺旋」邊緣的右心室。本集帶你看懂崩潰的機轉、誘導藥怎麼選（ketamine 的老禁忌翻案、etomidate 與 propofol 的取捨）、升壓藥第一線到第二線的選法、PEEP 的 U 形曲線、為什麼肺栓塞不能用「允許性高碳酸血症」、液體該不該灌，以及二〇二六新指引「能不插就不插、先穩血壓、備好葉克膜救援」的操作邏輯。我們也會誠實標出每個處置背後的證據有多薄。</p>
+<p>⚠️ 本集由 AI 多來源研究＋對抗式查核後、以中文對談製作；內容真實性以查核報告為準。本集為衛教與知識分享，不構成醫療建議，臨床處置請依個別病人狀況與主治醫師判斷。</p>
+<ul>
+<li>2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults（JACC 2026;87:1626-1710）— JACC / 2026-03-01 —（官方一手）— <a href="https://doi.org/10.1016/j.jacc.2025.11.005">link</a></li>
+<li>2026 AHA/ACC PE Guideline（共同發表，Circulation 2026;153:e977）— Circulation / 2026-01-01 —（官方一手）— <a href="https://doi.org/10.1161/cir.0000000000001415">link</a></li>
+<li>Intubation and Mechanical Ventilation in Patients with Acute Pulmonary Embolism: A Scoping Review（Lee ES et al., J Intensive Care Med 2024，PMID 39318344）— PubMed / 2024-09-01 —（官方一手）— <a href="https://pubmed.ncbi.nlm.nih.gov/39318344/">link</a></li>
+<li>Managing right ventricular failure in the setting of pulmonary embolism（Cleveland Clinic Journal of Medicine 2025;92(5):301）— CCJM / 2025-05-01 —（官方一手）— <a href="https://www.ccjm.org/content/92/5/301">link</a></li>
+<li>Role of Ketamine in the Management of Pulmonary Hypertension and Right Ventricular Failure（J Cardiothorac Vasc Anesth 2012;26(4):741-748，PMID 22361483）— PubMed / 2012-04-01 —（官方一手）— <a href="https://pubmed.ncbi.nlm.nih.gov/22361483/">link</a></li>
+<li>SCCM Clinical Practice Guidelines for Rapid Sequence Intubation in the Critically Ill Adult（Crit Care Med 2023;51(10):1411-1430）— SCCM / 2023-10-01 —（官方一手）— <a href="https://doi.org/10.1097/ccm.0000000000006000">link</a></li>
+<li>Induction agents for emergency tracheal intubation in critically ill adults: systematic review and network meta-analysis（Zampieri FG et al., Critical Care 2026）— Critical Care / 2026-01-01 —（官方一手）— <a href="https://doi.org/10.1186/s13054-026-06067-w">link</a></li>
+<li>Intraprocedural Management of PE Patients Undergoing Transcatheter Treatment, and Ventilatory and Cardiac Support（ICR Journal 2025，PMC12937079）— ICR Journal / 2025-01-01 —（官方一手）— <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12937079/">link</a></li>
+<li>Positive Pressure Ventilation in the Cardiac Intensive Care Unit（Alviar CL et al., JACC 2018;72(13):1532-1553，PMC11032173）— JACC / 2018-09-25 —（官方一手）— <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11032173/">link</a></li>
+<li>Increasing Levels of PEEP Cause Stepwise Biventricular Stroke Work Reduction in a Porcine Model（Wood G et al., Anesthesiology 2023;140(2):240-250，PMID 37905995）— Anesthesiology / 2023-02-01 —（官方一手）— <a href="https://doi.org/10.1097/aln.0000000000004821">link</a></li>
+<li>Management Strategies for Acute Pulmonary Embolism in the ICU（McGuire WC et al., CHEST 2024;166(6):1532-1545）— CHEST / 2024-06-01 —（官方一手）— <a href="https://doi.org/10.1016/j.chest.2024.04.032">link</a></li>
+<li>Efficacy and Safety of Systemic Thrombolysis and Catheter-Directed Therapy in Pulmonary Embolism: A Narrative Review（PMC11660967）— PMC / 2024-12-01 —（官方一手）— <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11660967/">link</a></li>
+<li>RSI Trial: Ketamine or Etomidate for Tracheal Intubation of Critically Ill Adults — The Bottom Line Summary（Casey et al., NEJM 2025）— The Bottom Line / 2025-12-01 —（媒體報導）— <a href="https://www.thebottomline.org.uk/summaries/icm/rsi-ketamine-or-etomidate-for-tracheal-intubation-of-critically-ill-adults/">link</a></li>
+<li>Hemodynamic and respiratory support in pulmonary embolism: a narrative review（Frontiers in Medicine 2023;10:1123793）— Frontiers in Medicine / 2023-03-01 —（媒體報導）— <a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1123793/full">link</a></li>
+<li>The Critical Pulmonary Embolism Patient — REBEL EM / 2024-01-01 —（媒體報導）— <a href="https://rebelem.com/the-critical-pulmonary-embolism-patient/">link</a></li>
+<li>ECMO Considerations in the Management of Acute Pulmonary Embolism（ACEP Critical Care Section）— ACEP / 2025-12-01 —（媒體報導）— <a href="https://www.acep.org/criticalcare/newsroom/newsroom-articles/december-2025/ecmo-considerations-in-the-management-of-acute-pulmonary-embolism">link</a></li>
+</ul>
+]]></content:encoded>
+  </item>
+  <item>
     <title>EP06 韓國選舉的暗面：買票、買提名、AI 假消息（附台灣瘋傳圖拆解）</title>
     <guid isPermaLink="false">voice-podcast-ep06-korea-20260605</guid>
     <pubDate>Fri, 05 Jun 2026 11:00:23 +0800</pubDate>
