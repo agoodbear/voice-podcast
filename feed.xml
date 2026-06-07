@@ -17,14 +17,15 @@
     <title>EP07 替肺栓塞病人插管，會不會反而讓狀況惡化？2026 AHA/ACC 新指引怎麼說</title>
     <guid isPermaLink="false">voice-podcast-ep07-pe-intubation-20260607</guid>
     <pubDate>Sun, 07 Jun 2026 13:00:00 +0800</pubDate>
-    <enclosure url="https://agoodbear.github.io/voice-podcast/ep07-pe-intubation.mp3" length="22937319" type="audio/mpeg"/>
-    <itunes:duration>00:23:54</itunes:duration>
+    <enclosure url="https://agoodbear.github.io/voice-podcast/ep07-pe-intubation.mp3" length="15178324" type="audio/mpeg"/>
+    <itunes:duration>00:15:49</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://agoodbear.github.io/voice-podcast/cover.jpg"/>
     <description><![CDATA[
-<p>急診室來了一個喘到不行、血氧直直落的急性肺栓塞病人，直覺反應就是插管、給氧、保護氣道——但這一集要講的剛好相反：對肺栓塞病人來說，插管這個動作本身，可能就是壓垮他的最後一根稻草。為什麼一個血壓看起來還撐得住的病人，鎮靜誘導藥一打、正壓一上，就會瞬間崩盤？答案藏在那顆被後負荷逼到極限、正卡在「右心死亡螺旋」邊緣的右心室。本集帶你看懂崩潰的機轉、誘導藥怎麼選（ketamine 的老禁忌翻案、etomidate 與 propofol 的取捨）、升壓藥第一線到第二線的選法、PEEP 的 U 形曲線、為什麼肺栓塞不能用「允許性高碳酸血症」、液體該不該灌，以及二〇二六新指引「能不插就不插、先穩血壓、備好葉克膜救援」的操作邏輯。我們也會誠實標出每個處置背後的證據有多薄。</p>
+<p>急診室來了一個喘到不行、血氧直直落的急性肺栓塞病人，直覺反應就是插管、給氧、保護氣道——但這一集要講的剛好相反：對肺栓塞病人來說，插管這個動作本身，可能就是壓垮他的最後一根稻草。為什麼一個血壓看起來還撐得住的病人，鎮靜誘導藥一打、正壓一上，就會瞬間崩盤？答案藏在那顆被後負荷逼到極限、正卡在「右心死亡螺旋」邊緣的右心室。起點是 JournalFeed 介紹的一篇 2026 年急診醫學世代研究（Dhar et al., Acad Emerg Med）：51 位插管的急性 PE 病人，插管後三小時內超過一半需要加重升壓藥、12% 心跳停止、10% 用葉克膜，中央型 PE 與右心吃力（超音波 OR 約 8 倍）是風險放大器。本集從這份研究出發，結合 2024 系統性回顧與 2026 AHA/ACC 新指引，帶你看懂崩潰的機轉、誘導藥怎麼選（ketamine 的老禁忌翻案、etomidate 與 propofol 的取捨）、升壓藥第一線到第二線的選法、PEEP 的 U 形曲線、為什麼肺栓塞不能用「允許性高碳酸血症」、液體該不該灌，以及新指引「能不插就不插、先穩血壓、備好葉克膜救援」的操作邏輯。我們也會誠實標出每個處置背後的證據有多薄。</p>
 <p>⚠️ 本集由 AI 多來源研究＋對抗式查核後、以中文對談製作；內容真實性以查核報告為準。本集為衛教與知識分享，不構成醫療建議，臨床處置請依個別病人狀況與主治醫師判斷。</p>
 <ul>
+<li>【本集起點・JournalFeed 介紹的研究】Characteristics and Short-Term Outcomes of Patients With Acute Pulmonary Embolism Requiring Intubation（Dhar IT et al., Acad Emerg Med 2026;33(5):e70317，PMID 42084455）— Academic Emergency Medicine / 2026-05 —（官方一手）— <a href="https://doi.org/10.1111/acem.70317">link</a>｜JournalFeed 導讀：<a href="https://journalfeed.org/article-a-day/2026/intubating-pe-patients-a-high-stakes-procedure/">link</a></li>
 <li>2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults（JACC 2026;87:1626-1710）— JACC / 2026-03-01 —（官方一手）— <a href="https://doi.org/10.1016/j.jacc.2025.11.005">link</a></li>
 <li>2026 AHA/ACC PE Guideline（共同發表，Circulation 2026;153:e977）— Circulation / 2026-01-01 —（官方一手）— <a href="https://doi.org/10.1161/cir.0000000000001415">link</a></li>
 <li>Intubation and Mechanical Ventilation in Patients with Acute Pulmonary Embolism: A Scoping Review（Lee ES et al., J Intensive Care Med 2024，PMID 39318344）— PubMed / 2024-09-01 —（官方一手）— <a href="https://pubmed.ncbi.nlm.nih.gov/39318344/">link</a></li>
@@ -44,9 +45,10 @@
 </ul>
 ]]></description>
     <content:encoded><![CDATA[
-<p>急診室來了一個喘到不行、血氧直直落的急性肺栓塞病人，直覺反應就是插管、給氧、保護氣道——但這一集要講的剛好相反：對肺栓塞病人來說，插管這個動作本身，可能就是壓垮他的最後一根稻草。為什麼一個血壓看起來還撐得住的病人，鎮靜誘導藥一打、正壓一上，就會瞬間崩盤？答案藏在那顆被後負荷逼到極限、正卡在「右心死亡螺旋」邊緣的右心室。本集帶你看懂崩潰的機轉、誘導藥怎麼選（ketamine 的老禁忌翻案、etomidate 與 propofol 的取捨）、升壓藥第一線到第二線的選法、PEEP 的 U 形曲線、為什麼肺栓塞不能用「允許性高碳酸血症」、液體該不該灌，以及二〇二六新指引「能不插就不插、先穩血壓、備好葉克膜救援」的操作邏輯。我們也會誠實標出每個處置背後的證據有多薄。</p>
+<p>急診室來了一個喘到不行、血氧直直落的急性肺栓塞病人，直覺反應就是插管、給氧、保護氣道——但這一集要講的剛好相反：對肺栓塞病人來說，插管這個動作本身，可能就是壓垮他的最後一根稻草。為什麼一個血壓看起來還撐得住的病人，鎮靜誘導藥一打、正壓一上，就會瞬間崩盤？答案藏在那顆被後負荷逼到極限、正卡在「右心死亡螺旋」邊緣的右心室。起點是 JournalFeed 介紹的一篇 2026 年急診醫學世代研究（Dhar et al., Acad Emerg Med）：51 位插管的急性 PE 病人，插管後三小時內超過一半需要加重升壓藥、12% 心跳停止、10% 用葉克膜，中央型 PE 與右心吃力（超音波 OR 約 8 倍）是風險放大器。本集從這份研究出發，結合 2024 系統性回顧與 2026 AHA/ACC 新指引，帶你看懂崩潰的機轉、誘導藥怎麼選（ketamine 的老禁忌翻案、etomidate 與 propofol 的取捨）、升壓藥第一線到第二線的選法、PEEP 的 U 形曲線、為什麼肺栓塞不能用「允許性高碳酸血症」、液體該不該灌，以及新指引「能不插就不插、先穩血壓、備好葉克膜救援」的操作邏輯。我們也會誠實標出每個處置背後的證據有多薄。</p>
 <p>⚠️ 本集由 AI 多來源研究＋對抗式查核後、以中文對談製作；內容真實性以查核報告為準。本集為衛教與知識分享，不構成醫療建議，臨床處置請依個別病人狀況與主治醫師判斷。</p>
 <ul>
+<li>【本集起點・JournalFeed 介紹的研究】Characteristics and Short-Term Outcomes of Patients With Acute Pulmonary Embolism Requiring Intubation（Dhar IT et al., Acad Emerg Med 2026;33(5):e70317，PMID 42084455）— Academic Emergency Medicine / 2026-05 —（官方一手）— <a href="https://doi.org/10.1111/acem.70317">link</a>｜JournalFeed 導讀：<a href="https://journalfeed.org/article-a-day/2026/intubating-pe-patients-a-high-stakes-procedure/">link</a></li>
 <li>2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults（JACC 2026;87:1626-1710）— JACC / 2026-03-01 —（官方一手）— <a href="https://doi.org/10.1016/j.jacc.2025.11.005">link</a></li>
 <li>2026 AHA/ACC PE Guideline（共同發表，Circulation 2026;153:e977）— Circulation / 2026-01-01 —（官方一手）— <a href="https://doi.org/10.1161/cir.0000000000001415">link</a></li>
 <li>Intubation and Mechanical Ventilation in Patients with Acute Pulmonary Embolism: A Scoping Review（Lee ES et al., J Intensive Care Med 2024，PMID 39318344）— PubMed / 2024-09-01 —（官方一手）— <a href="https://pubmed.ncbi.nlm.nih.gov/39318344/">link</a></li>
