@@ -14,6 +14,59 @@
   <image><url>https://agoodbear.github.io/voice-podcast/cover.jpg</url><title>熊的好奇電台</title><link>https://agoodbear.github.io/voice-podcast/</link></image>
   <itunes:owner><itunes:name>曹建雄 Bear</itunes:name><itunes:email>agoodbear@gmail.com</itunes:email></itunes:owner>
   <item>
+    <title>EP11 AI 黑話翻譯：model、harness、agent 到底在說什麼？講給完全不寫 code 的人聽</title>
+    <guid isPermaLink="false">voice-podcast-ep11-ai-jargon-20260620</guid>
+    <pubDate>Sat, 20 Jun 2026 21:55:00 +0800</pubDate>
+    <enclosure url="https://agoodbear.github.io/voice-podcast/ep11-ai-jargon.mp3" length="12925524" type="audio/mpeg"/>
+    <itunes:duration>00:13:28</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://agoodbear.github.io/voice-podcast/cover.jpg"/>
+    <description><![CDATA[
+<p>你有沒有過這種時刻——興沖沖跟家人講你最近在玩的新東西，一開口全是 model、harness、agent、context，對方一臉茫然？這集 Bear 從一頓飯桌上「你剛剛那串英文我一個字都沒聽懂」的真實場景出發，把今年 AI 圈最常聽到的幾個黑話，用菜市場也聽得懂的方式拆給你聽。一句話先記住：模型是大腦，其他全部都是周邊配備；AI 強不強，現在比的常常不是那顆大腦，而是外面那圈配備有沒有搭好。聽完你會懂「迷失在中間」「脈絡腐化」是什麼，還能拿走四招零程式碼就能上手的實用做法，外加一個最被忽略、卻最好用的小技巧。不用寫程式，照樣聽得懂、用得上。</p>
+<p>⚠️ 本集由 AI 多來源研究＋對抗式查核後、以中文對談製作；內容真實性以查核報告為準，僅供一般科普參考，不構成投資或專業技術採購建議。</p>
+<ul>
+<li>Lost in the Middle: An Emergent Property from Information Retrieval Demands in LLMs — arXiv／2025-10 —（官方一手）— <a href="https://arxiv.org/html/2510.10276v1">link</a></li>
+<li>Hallucination to truth: a review of fact-checking and factuality evaluation in large language models — Springer／2025 —（官方一手）— <a href="https://link.springer.com/article/10.1007/s10462-025-11454-w">link</a></li>
+<li>Andrej Karpathy on X — context engineering 定義 — X／2025-06 —（官方一手）— <a href="https://x.com/karpathy/status/1937902205765607626">link</a></li>
+<li>Harness Engineering 是什麼？AI 的下一個戰場不是模型，而是模型外面的那層架構 — 鏈新聞 ABMedia／2026-04-10 —（媒體報導）— <a href="https://abmedia.io/harness-engineering-ai-agent-framework-explained">link</a></li>
+<li>A Guide to Context Engineering for LLMs — ByteByteGo／2026-04-06 —（媒體報導）— <a href="https://blog.bytebytego.com/p/a-guide-to-context-engineering-for">link</a></li>
+<li>Lost-in-the-Middle Problem: Why Context Position Matters — Atlan／2026-06-10 —（媒體報導）— <a href="https://atlan.com/know/llm/lost-in-the-middle-problem/">link</a></li>
+<li>Context Rot: Why LLMs Degrade as Context Grows — Morph／2026-03-13 —（媒體報導）— <a href="https://www.morphllm.com/context-rot">link</a></li>
+<li>How to Manage ChatGPT Memory: View, Edit, Delete (2026) — AI Toolbox／2026 —（媒體報導）— <a href="https://www.ai-toolbox.co/chatgpt-management-and-productivity/how-to-manage-chatgpt-memory-2026">link</a></li>
+<li>Claude Memory: 3 Layers Most Users Miss (2026 Setup) — Shareuhack／2026-05 —（媒體報導）— <a href="https://www.shareuhack.com/en/posts/claude-memory-feature-guide-2026">link</a></li>
+<li>Context Engineering Complete Guide April 2026 — Supermemory／2026-04 —（媒體報導）— <a href="https://supermemory.ai/blog/what-is-context-engineering-complete-guide/">link</a></li>
+<li>Harness Engineering: Making AI Coding Agents Work in 2026 — Faros.ai／2026-02-11 —（媒體報導）— <a href="https://www.faros.ai/blog/harness-engineering">link</a></li>
+<li>The Third Evolution: Why Harness Engineering Replaced Prompting in 2026 — Epsilla Blog／2026 —（媒體報導）— <a href="https://www.epsilla.com/blogs/harness-engineering-evolution-prompt-context-autonomous-agents">link</a></li>
+<li>LLM Hallucinations in 2026: How to Understand and Tackle AI's Most Persistent Quirk — Lakera／2026 —（媒體報導）— <a href="https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models">link</a></li>
+<li>Agent Harness: What Actually Determines Whether AI Delivers or Disappoints — Yu Wenhao／2026 —（當事方說法）— <a href="https://yu-wenhao.com/en/blog/ai-harness/">link</a></li>
+<li>Harness Engineering 是什麼？AI 代寫程式時代你也該懂的工程觀念 — RAR 設計攻略／日期不詳 —（當事方說法）— <a href="https://rar.design/posts/harness-engineering-guide">link</a></li>
+<li>2026 AI 圈爆火的 Harness Engineering，到底是什麼？Prompt / Context 之後的下一步 — YouTube／2026 —（未證實）— <a href="https://www.youtube.com/watch?v=IoQSFZAhzrI">link</a></li>
+</ul>
+]]></description>
+    <content:encoded><![CDATA[
+<p>你有沒有過這種時刻——興沖沖跟家人講你最近在玩的新東西，一開口全是 model、harness、agent、context，對方一臉茫然？這集 Bear 從一頓飯桌上「你剛剛那串英文我一個字都沒聽懂」的真實場景出發，把今年 AI 圈最常聽到的幾個黑話，用菜市場也聽得懂的方式拆給你聽。一句話先記住：模型是大腦，其他全部都是周邊配備；AI 強不強，現在比的常常不是那顆大腦，而是外面那圈配備有沒有搭好。聽完你會懂「迷失在中間」「脈絡腐化」是什麼，還能拿走四招零程式碼就能上手的實用做法，外加一個最被忽略、卻最好用的小技巧。不用寫程式，照樣聽得懂、用得上。</p>
+<p>⚠️ 本集由 AI 多來源研究＋對抗式查核後、以中文對談製作；內容真實性以查核報告為準，僅供一般科普參考，不構成投資或專業技術採購建議。</p>
+<ul>
+<li>Lost in the Middle: An Emergent Property from Information Retrieval Demands in LLMs — arXiv／2025-10 —（官方一手）— <a href="https://arxiv.org/html/2510.10276v1">link</a></li>
+<li>Hallucination to truth: a review of fact-checking and factuality evaluation in large language models — Springer／2025 —（官方一手）— <a href="https://link.springer.com/article/10.1007/s10462-025-11454-w">link</a></li>
+<li>Andrej Karpathy on X — context engineering 定義 — X／2025-06 —（官方一手）— <a href="https://x.com/karpathy/status/1937902205765607626">link</a></li>
+<li>Harness Engineering 是什麼？AI 的下一個戰場不是模型，而是模型外面的那層架構 — 鏈新聞 ABMedia／2026-04-10 —（媒體報導）— <a href="https://abmedia.io/harness-engineering-ai-agent-framework-explained">link</a></li>
+<li>A Guide to Context Engineering for LLMs — ByteByteGo／2026-04-06 —（媒體報導）— <a href="https://blog.bytebytego.com/p/a-guide-to-context-engineering-for">link</a></li>
+<li>Lost-in-the-Middle Problem: Why Context Position Matters — Atlan／2026-06-10 —（媒體報導）— <a href="https://atlan.com/know/llm/lost-in-the-middle-problem/">link</a></li>
+<li>Context Rot: Why LLMs Degrade as Context Grows — Morph／2026-03-13 —（媒體報導）— <a href="https://www.morphllm.com/context-rot">link</a></li>
+<li>How to Manage ChatGPT Memory: View, Edit, Delete (2026) — AI Toolbox／2026 —（媒體報導）— <a href="https://www.ai-toolbox.co/chatgpt-management-and-productivity/how-to-manage-chatgpt-memory-2026">link</a></li>
+<li>Claude Memory: 3 Layers Most Users Miss (2026 Setup) — Shareuhack／2026-05 —（媒體報導）— <a href="https://www.shareuhack.com/en/posts/claude-memory-feature-guide-2026">link</a></li>
+<li>Context Engineering Complete Guide April 2026 — Supermemory／2026-04 —（媒體報導）— <a href="https://supermemory.ai/blog/what-is-context-engineering-complete-guide/">link</a></li>
+<li>Harness Engineering: Making AI Coding Agents Work in 2026 — Faros.ai／2026-02-11 —（媒體報導）— <a href="https://www.faros.ai/blog/harness-engineering">link</a></li>
+<li>The Third Evolution: Why Harness Engineering Replaced Prompting in 2026 — Epsilla Blog／2026 —（媒體報導）— <a href="https://www.epsilla.com/blogs/harness-engineering-evolution-prompt-context-autonomous-agents">link</a></li>
+<li>LLM Hallucinations in 2026: How to Understand and Tackle AI's Most Persistent Quirk — Lakera／2026 —（媒體報導）— <a href="https://www.lakera.ai/blog/guide-to-hallucinations-in-large-language-models">link</a></li>
+<li>Agent Harness: What Actually Determines Whether AI Delivers or Disappoints — Yu Wenhao／2026 —（當事方說法）— <a href="https://yu-wenhao.com/en/blog/ai-harness/">link</a></li>
+<li>Harness Engineering 是什麼？AI 代寫程式時代你也該懂的工程觀念 — RAR 設計攻略／日期不詳 —（當事方說法）— <a href="https://rar.design/posts/harness-engineering-guide">link</a></li>
+<li>2026 AI 圈爆火的 Harness Engineering，到底是什麼？Prompt / Context 之後的下一步 — YouTube／2026 —（未證實）— <a href="https://www.youtube.com/watch?v=IoQSFZAhzrI">link</a></li>
+</ul>
+]]></content:encoded>
+  </item>
+  <item>
     <title>EP10 吵架不必互罵：把「罵人」換成「講清楚事情」，給孩子的對事不對人練習</title>
     <guid isPermaLink="false">voice-podcast-ep10-talk-about-the-thing-20260619</guid>
     <pubDate>Fri, 19 Jun 2026 13:35:00 +0800</pubDate>
